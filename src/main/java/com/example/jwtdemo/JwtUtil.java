@@ -1,4 +1,4 @@
-package com.kanak.jwtdemo;
+package com.example.jwtdemo;
 
 import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;

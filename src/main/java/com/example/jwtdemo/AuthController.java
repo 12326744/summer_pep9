@@ -1,4 +1,4 @@
-package com.kanak.jwtdemo;
+package com.example.jwtdemo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

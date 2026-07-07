@@ -1,4 +1,4 @@
-package com.kanak.jwtdemo;
+package com.example.jwtdemo;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

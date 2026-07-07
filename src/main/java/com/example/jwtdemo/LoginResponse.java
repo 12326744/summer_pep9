@@ -1,4 +1,4 @@
-package com.kanak.jwtdemo;
+package com.example.jwtdemo;
 
 public class LoginResponse {
     private String token;
